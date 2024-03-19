@@ -1,0 +1,52 @@
+body{
+    background-color:black;
+    
+}
+#centro{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:rgb(31, 31, 31);
+    width: 23%;
+    height: auto;
+    margin:auto;
+    margin-top: 150px;
+    padding-bottom: 50px;
+    border-radius: 5px;
+    text-align: center;
+}
+img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-top: 50px;
+    margin-bottom: 5px;
+}
+#cid{
+    color:rgb(193, 222, 80);
+    font-size:13px;
+    margin: 10px;
+}
+#nome{
+    color:white;
+    font-size: 25px;
+    margin: 5px;
+}
+#desc{
+    color:white;
+    font-size: 13px;
+    margin: 10px;
+}
+
+.git{
+    background-color: rgb(51, 51, 51);
+    color: #fff;
+    font-size: 15px;
+    width: 80%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.git:hover{
+    background-color:rgb(193, 222, 80);
+}
